@@ -1,0 +1,12 @@
+<html>
+<script>
+var array = [1,2,3,4,5,6];
+let obj =array.push(7);
+console.log(array);
+console.log(obj);
+</script>
+</html>
+
+Output:
+array = 1,2,3,4,5,6
+obj = 1,2,3,4,5,6,7
